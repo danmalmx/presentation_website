@@ -1,6 +1,6 @@
 # Presentation Website
 
-#### Static, CSS/HTML only site.
+#### Static, CSS/HTML only site - demo as alternative to traditional powerpoint.
 
 ### <a href="https://danmalmx.github.io/presentation_website/">Demo Page link</a>
 
