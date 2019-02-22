@@ -2,7 +2,7 @@
 
 #### Static, CSS/HTML only site.
 
-### Demo Page link
+### <a href="https://danmalmx.github.io/presentation_website/">Demo Page link</a>
 
 #### Screenshot
 
